@@ -1,10 +1,15 @@
 .navbar {
     background-color: blueviolet !important;
     padding: 20px;
-    
+    font-family: 'Comfortaa', cursive;
+    font-weight: 400;
 }
 
 :root{
     background-color: beige;
+}
+
+.navbar-brand {
+    font-size: 25px;
 }
 
