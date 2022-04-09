@@ -30,6 +30,10 @@ body {
     padding: 0;
 }
 
+.map {
+    max-width: 70%;
+}
+
 footer {
     background-color: blueviolet;
     font-size: 16px;
