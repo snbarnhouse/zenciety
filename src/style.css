@@ -42,6 +42,10 @@ body {
     margin-left: 80px;
 }
 
+.store-front {
+    max-width: 85%;
+}
+
 .hours {
     list-style: none;
     margin: 0;
@@ -49,7 +53,7 @@ body {
 }
 
 .map {
-    max-width: 70%;
+    max-width: 90%;
 }
 
 footer {
