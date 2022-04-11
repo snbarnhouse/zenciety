@@ -23,6 +23,15 @@ body {
     margin-top: 30px;
 }
 
+.zenciety {
+    max-width: 65%;
+}
+
+.necklaces {
+    max-width: 40%;
+    margin-left: 120px;
+}
+
 .joelle {
     max-width: 50%;
     margin-left: 80px;
