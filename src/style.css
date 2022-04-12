@@ -1,78 +1,77 @@
 body {
-    font-family: 'Comfortaa', cursive;
-    background-color: beige;
-    margin: 0px;
-    padding: 0px;
+  font-family: "Comfortaa", cursive;
+  background-color: beige;
+  margin: 0px;
+  padding: 0px;
 }
 
 .navbar {
-    background-color: blueviolet !important;
-    padding: 20px;
-    font-weight: 400;
+  background-color: blueviolet !important;
+  padding: 20px;
+  font-weight: 400;
 }
 
 .navbar-brand {
-    font-size: 25px;
+  font-size: 25px;
 }
 
 .welcome {
-    margin: 30px;
+  margin: 30px;
 }
 
 .about-zenciety {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .zenciety {
-    max-width: 65%;
+  max-width: 65%;
 }
 
 .necklaces {
-    /* max-width: 40%;
+  /* max-width: 40%;
     margin-left: 120px; */
-    float: left;
+  float: left;
   width: 50%;
 }
 
 .joelle {
-    max-width: 50%;
-    margin-left: 80px;
+  max-width: 50%;
+  margin-left: 80px;
 }
 
 .ceshele {
-    max-width: 50%;
-    margin-left: 80px;
+  max-width: 50%;
+  margin-left: 80px;
 }
 
 .store-front {
-    max-width: 85%;
+  max-width: 85%;
 }
 
 .hours {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 .map {
-    max-width: 90%;
+  max-width: 90%;
 }
 
 footer {
-    background-color: blueviolet;
-    font-size: 16px;
-    color: white;
-    padding: 5px 0;
-    margin-top: 40px;
+  background-color: blueviolet;
+  font-size: 16px;
+  color: white;
+  padding: 5px 0;
+  margin-top: 40px;
 }
 
 footer a {
-    color: white;
-    font-size: 16px;
-    margin: 0 5px;
+  color: white;
+  font-size: 16px;
+  margin: 0 5px;
 }
 
 footer a:hover {
-    color: rgba(255,255,255,.55);
+  color: rgba(255, 255, 255, 0.55);
 }
-
