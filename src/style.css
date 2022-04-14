@@ -78,12 +78,16 @@ footer a:hover {
 
 @media (max-width: 900px) {
   .important-column {
-    margin-left: 150px;
+    margin-left: 125px;
     text-align: center;
   }
 
   .store-hours {
     margin-left: -100px;
     text-align: center;
+  }
+
+  .location {
+    margin-left: 50px;
   }
 }
