@@ -75,3 +75,15 @@ footer a {
 footer a:hover {
   color: rgba(255, 255, 255, 0.55);
 }
+
+@media (max-width: 900px) {
+  .important-column {
+    margin-left: 150px;
+    text-align: center;
+  }
+
+  .store-hours {
+    margin-left: -100px;
+    text-align: center;
+  }
+}
