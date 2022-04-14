@@ -82,7 +82,7 @@ footer a:hover {
   }
   .important-column {
     /* margin-left: 110px; */
-    /* text-align: center; */
+    text-align: center;
     width: 100%
   }
 
@@ -94,4 +94,9 @@ footer a:hover {
   .location {
     margin-left: 50px;
   }
+
+ .map {
+   padding-top: 40px;
+   max-width: 120%;
+ }
 }
