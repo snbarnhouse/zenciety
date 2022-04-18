@@ -60,6 +60,10 @@ body {
   margin-bottom: 30px;
 }
 
+.disclaimer {
+  font-style: italic;
+}
+
 .store-front {
   max-width: 85%;
 }
