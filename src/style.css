@@ -49,6 +49,16 @@ body {
   margin: 40px 0 0 90px;
 }
 
+.providers {
+  font-weight: bold;
+  font-size: larger;
+}
+
+.services {
+  outline: 1px solid black;
+  padding: 25px;
+}
+
 .store-front {
   max-width: 85%;
 }
