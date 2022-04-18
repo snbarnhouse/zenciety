@@ -108,8 +108,17 @@ footer a:hover {
   }
 
   .about-owners {
-    text-align: center;
+    /* text-align: center; */
     width: 100%;
+    
+  }
+
+  .owners-about {
+    margin-top: -25px;
+  }
+
+  .ceshele-about {
+    margin-top: -75px;
   }
 
   .store-hours {
