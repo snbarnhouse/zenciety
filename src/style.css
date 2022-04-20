@@ -121,6 +121,10 @@ footer a:hover {
     margin-top: -25px;
   }
 
+  .testimonials {
+    margin-top: 0px !important;
+  }
+
   .ceshele-about {
     margin-top: -75px;
   }
