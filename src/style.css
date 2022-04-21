@@ -135,6 +135,10 @@ footer a:hover {
     text-align: center;
   }
 
+  .last-row {
+    margin-left: 2px;
+  }
+
   .location {
     margin-left: 50px;
   }
