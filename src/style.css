@@ -64,6 +64,11 @@ body {
   font-style: italic;
 }
 
+.vendor-list {
+  list-style: none;
+  
+}
+
 .review-pic {
   max-width: 80%;
 }
