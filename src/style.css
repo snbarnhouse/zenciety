@@ -118,16 +118,19 @@ footer a:hover {
   .about-owners {
     /* text-align: center; */
     width: 100%;
-    
   }
 
   .owners-about {
-    margin-top: -25px;
+    margin-top: -25px; 
   }
 
   .testimonials {
     margin-top: 0px !important;
     margin-left: 2px;
+  }
+
+  .vendors-about {
+    margin-top: -5px !important;
   }
 
   .ceshele-about {
