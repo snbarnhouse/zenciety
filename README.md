@@ -2,9 +2,11 @@
 
 ## Description/Features
 
+This is a responsive website built for Zenciety Holistic Boutique. It which features an about us page, services and vendors page, a reviews/testimonials page, and a contact page. 
+
 ## Tech Stack
 
-
+This website was built using HTML, CSS, Bootstrap, Font Awesome, and Google Fonts.
 
 ### Links
 
