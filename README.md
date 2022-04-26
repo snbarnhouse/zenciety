@@ -2,7 +2,7 @@
 
 ## Description/Features
 
-This is a responsive website built for Zenciety Holistic Boutique. It which features an about us page, services and vendors page, a reviews/testimonials page, and a contact page. 
+This is a responsive website built for Zenciety Holistic Boutique a small business located in Lillington, North Carolina. It features an about us page, services and vendors page, a reviews/testimonials page, and a contact page. 
 
 ## Tech Stack
 
