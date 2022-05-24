@@ -109,6 +109,7 @@ footer a:hover {
   color: rgba(255, 255, 255, 0.55);
 }
 
+/* media queries for responsiveness */
 @media (max-width: 900px) {
   .body {
     text-align: center;
